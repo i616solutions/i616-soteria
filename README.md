@@ -1,4 +1,4 @@
-# Password Vault functionlity for Intranet
+# Password Vault functionality for Intranet
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/i616-solutions-llc/soteria.svg?style=flat-square)](https://packagist.org/packages/i616-solutions-llc/soteria)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/i616-solutions-llc/soteria/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/i616-solutions-llc/soteria/actions?query=workflow%3Arun-tests+branch%3Amain)
@@ -8,19 +8,12 @@
 This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
 
 ## Support us
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/soteria.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/soteria)
-
-We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
-
-We highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using. You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards on [our virtual postcard wall](https://spatie.be/open-source/postcards).
-
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require i616-solutions-llc/soteria
+composer require i616/soteria
 ```
 
 You can publish and run the migrations with:
