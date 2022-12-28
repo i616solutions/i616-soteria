@@ -2,9 +2,9 @@
 
 namespace i616\Soteria\Http\Controllers;
 
+use App\Http\Controllers\Controller;
 use i616\Soteria\Models\Vault;
 use Illuminate\Http\Request;
-use App\Http\Controllers\Controller;
 
 class VaultController extends Controller
 {

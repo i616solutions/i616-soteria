@@ -6,9 +6,6 @@ use Illuminate\Database\Eloquent\Concerns\HasUuids;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
-use i616\Soteria\Models\Payload;
-use i616\Soteria\Models\Vault;
-use i616\Soteria\Models\Template;
 
 class Secret extends Model
 {

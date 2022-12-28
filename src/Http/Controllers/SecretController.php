@@ -2,13 +2,13 @@
 
 namespace i616\Soteria\Http\Controllers;
 
+use App\Http\Controllers\Controller;
 use i616\Soteria\Models\Payload;
 use i616\Soteria\Models\Secret;
 use i616\Soteria\Models\Template;
 use i616\Soteria\Models\Vault;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Crypt;
-use App\Http\Controllers\Controller;
 
 class SecretController extends Controller
 {
