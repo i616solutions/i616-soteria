@@ -1,0 +1,24 @@
+{
+    "name": "i616/soteria",
+    "description": "Modules for password vault for intranet",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Joe Hagerty",
+            "email": "joeh@i616solutions.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "i616\\Soteria\\": "src/"
+        }
+    },
+    "extra" : {
+        "laravel": {
+            "providers": [
+                "i616\\Soteria\\SoteriaServiceProvider"
+            ]
+        }
+    }
+}
